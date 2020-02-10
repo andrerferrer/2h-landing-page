@@ -79,3 +79,16 @@ a:hover {
 #footer a:hover {
   color: white;
 }
+
+/* btn-pink */
+.btn-pink {
+  color: white;
+  background-color: #ffe2e2;
+  border-color: #ffe2e2;
+}
+
+.btn-pink:hover {
+  color: lightgrey;
+  background-color: #ffc7c7;
+  border-color: #ffc7c7;
+}

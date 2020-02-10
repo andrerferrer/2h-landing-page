@@ -28,10 +28,14 @@ a:hover {
   color: #ffe2e2;
 }
 
+/* add style to your cards */
+
 .card{
   padding: 50px;
   font-weight: lighter;
 }
+
+/* Add banner style */
 
 #banner{
   text-align: center;
@@ -44,16 +48,24 @@ a:hover {
   color: #ffe2e2;
   text-shadow: 1px 1px 5px black;
 }
+
+/* Add banner h1 style */
+
 #banner h1 {
   color: #ffe2e2;
   font-size: 50px;
 }
+
+/* Add banner p style */
 #banner p {
   color: #ffe2e2;
   opacity: 0.9;
   font-size: 30px;
   font-weight: 100;
 }
+
+/* Add footer style */
+
 #footer{
   padding: 30px;
   background: rgb(30, 30, 30);
