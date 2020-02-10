@@ -1,0 +1,80 @@
+/* General Style */
+body {
+  background: #f6f6f6;
+  color: #8785a2;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+
+h1, h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #8785a2;
+}
+h2 {
+  color: #ffc7c7;
+}
+
+a {
+  color: #ffc7c7;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ffe2e2;
+}
+
+/* Feature Card */
+
+.card {
+  padding: 50px;
+  font-weight: lighter;
+}
+
+/* Banner */
+
+#banner {
+  text-align: center;
+  background-image:
+    linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
+    url("images/lovefinderzz.jpg");
+
+  background-size: cover;
+  padding: 150px;
+  color: #ffe2e2;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner h1 {
+  color: #ffe2e2;
+  font-size: 50px;
+}
+
+#banner p {
+  color: #ffe2e2;
+  opacity: 0.9;
+  font-size: 30px;
+  font-weight: 100;
+}
+
+/* Footer */
+
+#footer {
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+/* Footer Icons */
+
+#footer a {
+  color: #ffe2e2;
+  font-size: 1.5em;
+}
+
+#footer a:hover {
+  color: white;
+}
