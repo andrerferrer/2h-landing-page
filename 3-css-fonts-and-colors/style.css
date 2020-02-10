@@ -1,0 +1,27 @@
+/* style.css */
+body{
+  background: #f6f6f6;
+  color: #8785a2;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  color: #8785a2;
+}
+h2 {
+  color: #ffc7c7;
+}
+
+a {
+  color: #ffc7c7;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ffe2e2;
+}
